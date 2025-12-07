@@ -43,3 +43,4 @@ for t in patient:
 
 
 
+#checked the code
