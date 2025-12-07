@@ -64,3 +64,4 @@ thread2.join()
 
 
 
+#checked the code
